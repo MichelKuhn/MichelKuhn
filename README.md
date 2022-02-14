@@ -1,3 +1,4 @@
-👋 Hey there, I’m @MichelKuhn  
-👀 I’m interested in statistics, meteorology (biometeorology 🌱 especially) and graphics programming for games and simulations  
-📫 You can reach me under michel.kuhn@live.com  
+Ex-Webdeveloper, Environmental Sciences student, Statistics enthuisiast  
+Here, I mainly try to get a better grip on statistical modelling and it's limits, meteorology (biometeorology 🌱 especially) and game development.  
+  
+If any of my projects interest you, don't hesitate to get in touch :)
